@@ -1,6 +1,4 @@
 # Customer-Churn-Prediction
-# 📊 Churn Prediction – Project Report
-
 ## Project Overview
 This project is focused on predicting **customer churn** — identifying which customers are likely to stop using a service. Using machine learning techniques, it analyzes historical customer data and builds a model to predict future churn behavior.
 
