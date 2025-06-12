@@ -3,7 +3,7 @@
 This project is focused on predicting **customer churn** — identifying which customers are likely to stop using a service. Using machine learning techniques, it analyzes historical customer data and builds a model to predict future churn behavior.
 
 ## Objective
-This `.html` file is a **report** generated from a Jupyter Notebook. It includes:
+This project includes:
 - Data loading and preprocessing steps
 - Visualizations to understand the data
 - Feature selection and encoding
